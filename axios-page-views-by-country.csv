@@ -60,8 +60,8 @@ Czech Republic,CZE,0.08
 French Guiana,GUF,0
 Finland,FIN,0.3
 Fiji,FJI,0
-Falkland Islands (Malvinas),FLK,0
-Micronesia, Federated States of,FSM,0
+Falkland Islands,FLK,0
+Federated States of Micronesia,FSM,0
 French Polynesia,PYF,0
 France,FRA,0.35
 Gambia,GMB,0
@@ -82,7 +82,7 @@ Croatia,HRV,0.03
 Hungary,HUN,0.09
 Iceland,ISL,0.02
 India,IND,0.54
-Iran (Islamic Republic of),IRN,0.04
+Islamic Republic of Iran,IRN,0.04
 Israel,ISR,0.23
 Italy,ITA,0.19
 Cote d'Ivoire,CIV,0
@@ -92,9 +92,9 @@ Jamaica,JAM,0.02
 Jordan,JOR,0.03
 Kenya,KEN,0.04
 Kyrgyzstan,KGZ,0
-Korea, Democratic People's Republic of,PRK,0
+North Korea,PRK,0
 Kiribati,KIR,0
-Korea, Republic of,KOR,0.23
+South Korea,KOR,0.23
 Kuwait,KWT,0.02
 Kazakhstan,KAZ,0.01
 Lao People's Democratic Republic,LAO,0
@@ -105,12 +105,12 @@ Lithuania,LTU,0.04
 Liberia,LBR,0
 Slovakia,SVK,0.04
 Liechtenstein,LIE,0
-Libyan Arab Jamahiriya,LBY,0
+Libya,LBY,0
 Madagascar,MDG,0
 Martinique,MTQ,0
 Mongolia,MNG,0
 Montserrat,MSR,0
-The former Yugoslav Republic of Macedonia,MKD,0.02
+Macedonia,MKD,0.02
 Mali,MLI,0.21
 Morocco,MAR,0.05
 Mauritius,MUS,0
@@ -140,16 +140,8 @@ Monaco,MCO,0
 Palestine,PSE,0.02
 Montenegro,MNE,0
 Mayotte,MYT,0
-Åland Islands,ALA,0
+Aland,ALA,0
 Norfolk Island,NFK,0
-Cocos (Keeling) Islands,CCK,0
-Antarctica,ATA,0
-Bouvet Island,BVT,0
-French Southern and Antarctic Lands,ATF,0
-Heard Island and McDonald Islands,HMD,0
-British Indian Ocean Territory,IOT,0
-Christmas Island,CXR,0
-United States Minor Outlying Islands,UMI,0
 Vanuatu,VUT,0
 Nigeria,NGA,0.03
 Netherlands,NLD,0.45
@@ -166,11 +158,11 @@ Poland,POL,0.22
 Panama,PAN,0.04
 Portugal,PRT,0.15
 Papua New Guinea,PNG,0
-Guinea-Bissau,GNB,0
+Guinea Bissau,GNB,0
 Qatar,QAT,0.03
 Reunion,REU,0
 Romania,ROU,0.07
-Republic of Moldova,MDA,0.03
+Moldova,MDA,0.03
 Philippines,PHL,0.17
 Puerto Rico,PRI,0.11
 Russia,RUS,0.27
