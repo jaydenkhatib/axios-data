@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=PT+Sans&display=swap');
+h1 {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 45px;
+    }
+
+#byline {
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 15px;
+    text-align: center;
+}
+
+#general_description {
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    }
+
+h3 {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    padding-top: 30px;
+    }
+
+h4 {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    padding-top: 30px;
+    }
+
+#donut_device {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    padding-top: 50px;
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 12px;
+    }
+
+
+#device_paragraph {
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 18px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#sites_paragraph {
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 18px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#media_sites {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    padding-top: 100px;
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 12px;
+    }
+
+#comparison_paragraph {
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 18px;
+    text-align: center;
+    padding-top: 5px;
+}
+#Layer_1 {
+    transform: scale(0.5);
+    padding-top: -100px;
+}
